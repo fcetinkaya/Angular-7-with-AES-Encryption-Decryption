@@ -1,5 +1,5 @@
 # Angular 7 with AES Encryption/Decryption
-<img src="" />
+<img src="https://raw.githubusercontent.com/fcetinkaya/Angular7_AES/master/Angular7_AES.JPG" />
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0-rc.0.
 
